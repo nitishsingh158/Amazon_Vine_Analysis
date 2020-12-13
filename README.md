@@ -53,7 +53,7 @@ Automotive Review Data
 There is an 11% difference noticed when comparing vine reviewers with non-vine reviewers (5-Star ratings), thereby indicating a slight bias of positive reviews from Vine Program reviewers.
 
 ## Additional Analysis
-    - Analyse more categories of products from Amazon to verify if the above trend is consistent across more categories. 
-    - Analysis categories where Vine reviews make up the majority of reviews. 
+ - Analyse more categories of products from Amazon to verify if the above trend is consistent across more categories. 
+ - Analysis categories where Vine reviews make up the majority of reviews. 
 
 
